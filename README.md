@@ -1,0 +1,2 @@
+# my_launchx_app
+Proyecto donde se aprende a crear proyectos con NodeJS y a crear crear pruebas unitarias con JEST. Donde lo qeu hare es: - Cómo crear un nuevo proyecto de js. - Cómo agregar dependencias nuevas a tu proyecto, dónde se guardan y cómo versionarlo correctamente. - Cómo exportar una clase y cómo importarla en otro archivo para usarla. - Cómo habilidar nuevos comandos con NPM en tu proyecto. - Cómo agregar una prueba de unidad básica con JEST.
